@@ -7,6 +7,11 @@ The project showcases skills in **HTML**, **CSS**, and **JavaScript**, with a fo
 
 ---
 
+## 🌐 Live Preview
+Check out the magical Tinkerbell cursor in action here: [Live Preview on CodePen](https://codepen.io/TeaC0de/pen/GgKXzmO)
+
+---
+
 ## 💻 Features
 1. **Custom Tinkerbell Cursor**:
    - The default cursor is hidden and replaced by a fixed-position Tinkerbell GIF.
