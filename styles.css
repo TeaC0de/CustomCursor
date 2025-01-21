@@ -1,0 +1,15 @@
+body {
+    cursor: none; /* Hides the default cursor */
+}
+
+.custom-cursor {
+    position: fixed;
+    width: 70px; /* Adjust the size of the GIF */
+    height: 70px; /* Maintain aspect ratio */
+    background-image: url('https://pnwmousemeet.com/wp-content/themes/pnwmousemeet/dist/images/tinkerbell.gif');
+    background-size: contain; /* Ensure the GIF scales proportionally */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    pointer-events: none; /* Ensures the GIF does not interfere with other elements */
+    z-index: 9999; /* Keeps the cursor on top of other elements */
+    transform-origin: center; /* Rotates the GIF around its center */
+}
